@@ -1,5 +1,5 @@
-
 <section name="social-networks">
+
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
@@ -13,31 +13,29 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.alxds@gmail.com)](mailto:matheus.alxds@gmail.com)
 
   </div>
+
 </section>
 
-  
-<p>Hi there 👋</p>
-<p>
-Currently, working as a Software Engineer focused on web development providing the best experience for users, I’ve been working with Typescript/Javascript, Node, React, Jest, React Testing Library, RESTful API, GraphQL, HTML/CSS, Styled-components, Postgres, MongoDB, Kafka, rabbitMQ, among others. However, I also apply concepts of TDD, SOLID, DRY, YAGN, and KISS to keep the code cleaner, organized and easier for future maintenance.
+<section name="me">
+  <p>Hi there 👋</p>
+  <p>My name is <b>Matheus</b>!</p>
+  <p> I'm currently working as a Software Engineer focused on web development providing the best experience for users, I’ve been working with Typescript/Javascript, Node, React, Jest, React Testing Library, RESTful API, GraphQL, HTML/CSS, Styled-components, Postgres, MongoDB, Kafka, rabbitMQ, among others. However, I also apply concepts of TDD, SOLID, DRY, YAGN, and KISS to keep the code cleaner, organized and easier for future maintenance.
+  </p>
+  <p><b>Passion for delivering high quality software.</b></p>  
 
-Passion for delivering high quality software.  
-</p>
+</section>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/matheusalxds/count.svg" />
-</p>
-<!--
-**matheusalxds/matheusalxds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+___
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalxds&layout=compact&theme=algolia&show_icons=true&hide=c,c%2B%2B,php,less,scss" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusalxds&count_private=true&show_icons=true&theme=algolia" width="350"  />
+
+</div>
+
+___
+
+<div>
+  <p> <img src="https://komarev.com/ghpvc/?username=matheusalxds&label=Profile%20views&color=0e75b6&style=flat" alt="matheusalxds" align="right" /> </p>
+</div>
