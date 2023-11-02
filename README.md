@@ -37,5 +37,5 @@ ___
 ___
 
 <div>
-  <p> <img src="https://komarev.com/ghpvc/?username=matheusalxds&label=Profile%20views&color=0e75b6&style=flat" alt="matheusalxds" align="right" /> </p>
+<!--   <p> <img src="https://komarev.com/ghpvc/?username=matheusalxds&label=Profile%20views&color=0e75b6&style=flat" alt="matheusalxds" align="right" /> </p> -->
 </div>
